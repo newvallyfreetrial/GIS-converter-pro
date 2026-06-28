@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "51DkOPMUvdo=",
+  "success": true,
+  "projectFilePath": "D:\\labib\\repo\\KML Converter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\maxrev.gdal.core\\3.13.1.534\\maxrev.gdal.core.3.13.1.534.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\maxrev.gdal.windowsruntime.minimal\\3.13.1.534\\maxrev.gdal.windowsruntime.minimal.3.13.1.534.nupkg.sha512"
+  ],
+  "logs": []
+}
